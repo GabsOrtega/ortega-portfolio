@@ -12,3 +12,10 @@ Projeto designado a um portfolio/apresentação de mim (Gabriel Ortega), como fo
 <h2> Preview</h2>
 
 <img src="/img-readme/preview.png" width=800>
+
+<p>
+  <br>
+&#169; Gabriel Ortega. All rights reserved
+  </p>
+  
+  
